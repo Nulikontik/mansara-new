@@ -23,12 +23,12 @@ body::-webkit-scrollbar {
 @font-face {
   font-family: futura_b;
   src: url(../fonts/FuturaLT-Bold.woff2);
-  font-weight: 300;
+  font-weight: 600;
 }
 @font-face {
   font-family: futura_l;
   src: url(../fonts/FuturaLT-Light.woff2);
-  font-weight: 100;
+  font-weight: 300;
 }
 body {
   background-color: #000;
